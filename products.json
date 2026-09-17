@@ -1,0 +1,102 @@
+[
+  {
+    "id": "refresh-250",
+    "name": "น้ำผลไม้ Refresh เล็ก",
+    "mood": "refresh",
+    "type": "bottle",
+    "size": "250ml",
+    "price": 49,
+    "image": "images/refresh.jpg",
+    "description": "น้ำผลไม้สูตร Refresh ขนาดพกพา ชื่นใจ สดชื่นทุกโมเมนต์"
+  },
+  {
+    "id": "refresh-500",
+    "name": "น้ำผลไม้ Refresh ใหญ่",
+    "mood": "refresh",
+    "type": "bottle",
+    "size": "500ml",
+    "price": 89,
+    "image": "images/refresh.jpg",
+    "description": "น้ำผลไม้สูตร Refresh ขนาดใหญ่ อิ่มฟิน ชื่นใจได้นานขึ้น"
+  },
+  {
+    "id": "detox-250",
+    "name": "น้ำผลไม้ Detox เล็ก",
+    "mood": "detox",
+    "type": "bottle",
+    "size": "250ml",
+    "price": 49,
+    "image": "images/detox.jpg",
+    "description": "น้ำผลไม้สูตร Detox ขนาดพกพา ช่วยล้างพิษ เบาสบายตัว"
+  },
+  {
+    "id": "detox-500",
+    "name": "น้ำผลไม้ Detox ใหญ่",
+    "mood": "detox",
+    "type": "bottle",
+    "size": "500ml",
+    "price": 89,
+    "image": "images/detox.jpg",
+    "description": "น้ำผลไม้สูตร Detox ขนาดใหญ่ ดีท็อกซ์เต็มที่ สดชื่นทั้งวัน"
+  },
+  {
+    "id": "glow-250",
+    "name": "น้ำผลไม้ Glow เล็ก",
+    "mood": "glow",
+    "type": "bottle",
+    "size": "250ml",
+    "price": 49,
+    "image": "images/glow.jpg",
+    "description": "น้ำผลไม้สูตร Glow ขนาดพกพา บำรุงผิวให้เปล่งปลั่ง"
+  },
+  {
+    "id": "glow-500",
+    "name": "น้ำผลไม้ Glow ใหญ่",
+    "mood": "glow",
+    "type": "bottle",
+    "size": "500ml",
+    "price": 89,
+    "image": "images/glow.jpg",
+    "description": "น้ำผลไม้สูตร Glow ขนาดใหญ่ เติมความสวยใสได้เต็มอิ่ม"
+  },
+  {
+    "id": "energy-250",
+    "name": "น้ำผลไม้ Energy เล็ก",
+    "mood": "energy",
+    "type": "bottle",
+    "size": "250ml",
+    "price": 49,
+    "image": "images/energy.jpg",
+    "description": "น้ำผลไม้สูตร Energy ขนาดพกพา เติมพลังให้พร้อมลุยวัน"
+  },
+  {
+    "id": "energy-500",
+    "name": "น้ำผลไม้ Energy ใหญ่",
+    "mood": "energy",
+    "type": "bottle",
+    "size": "500ml",
+    "price": 89,
+    "image": "images/energy.jpg",
+    "description": "น้ำผลไม้สูตร Energy ขนาดใหญ่ พลังเต็มถัง ลุยได้ทั้งวัน"
+  },
+  {
+    "id": "smoothie-detox",
+    "name": "Smoothie Detox",
+    "mood": "detox",
+    "type": "smoothie",
+    "size": "350ml",
+    "price": 79,
+    "image": "images/detox.jpg",
+    "description": "สมูทตี้สูตร Detox เข้มข้น เนื้อเนียน ล้างพิษแบบอิ่มท้อง"
+  },
+  {
+    "id": "smoothie-glow",
+    "name": "Smoothie Glow",
+    "mood": "glow",
+    "type": "smoothie",
+    "size": "350ml",
+    "price": 79,
+    "image": "images/glow.jpg",
+    "description": "สมูทตี้สูตร Glow เข้มข้น เนื้อเนียน บำรุงผิวจากภายใน"
+  }
+]
